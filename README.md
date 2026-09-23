@@ -1,128 +1,91 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0ea5e9,100:14b8a6&height=220&section=header&text=Aditya%20Vijay%20Patil&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20Electronics&descAlignY=58&descSize=18" width="100%" alt="Embedded systems themed profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:052e16,100:16a34a&height=230&section=header&text=ADITYA%20VIJAY%20PATIL&fontSize=38&fontColor=86efac&fontAlignY=36&desc=%3E%20embedded%20systems%20%7C%20iot%20%7C%20electronics_%20&descAlignY=57&descSize=17&animation=twinkling" width="100%" alt="Hacker style profile banner" />
 
-### Electrical & Electronics Engineering Student · Embedded Systems & IoT Enthusiast
+```text
+┌──[ aditya@embedded-lab ]─[ ~/projects ]
+└─$ whoami
+   electrical & electronics engineering student | 7th semester
+```
 
-<a href="https://github.com/adityaatil">
-  <img src="https://img.shields.io/badge/GitHub-adityaatil-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
-</a>
-<a href="https://adityaatil.github.io/Solar-phone-charger">
-  <img src="https://img.shields.io/badge/Project%20Demo-Solar%20Charger-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Solar charger project demo" />
-</a>
-
-</div>
-
-## About Me
-
-I'm a 7th-semester Electrical & Electronics Engineering student who enjoys building practical systems at the intersection of **electronics, embedded firmware, energy systems, and IoT**.
-
-I like working close to the hardware: programming microcontrollers, interfacing sensors and actuators, designing prototypes, and turning engineering concepts into reliable working systems.
-
-- 🔭 Exploring embedded systems, microcontroller programming, battery monitoring, and IoT
-- 🌱 Learning embedded C/C++, RTOS-based firmware, sensor interfacing, and wireless monitoring
-- ⚡ Interested in ESP32, ARM Cortex-M, battery management, renewable energy, and automation
-- 🤝 Open to learning, collaboration, and interesting embedded-electronics projects
-
-## Focus Areas
-
-`Embedded Firmware` · `Microcontrollers` · `ESP32` · `ARM Cortex-M` · `IoT` · `UART / I²C / ADC` · `Battery Monitoring` · `BMS Concepts` · `RTOS` · `Power Electronics`
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔋 [Real-Time Li-Ion Battery SOC Estimation using EKF](https://github.com/adityaatil/Real-Time-Li-Ion-Battery-SOC-Estimation-using-Extended-Kalman-Filter-EKF-)
-
-ESP32-based real-time battery monitoring using **Coulomb Counting, an OCV-SOC lookup table, INA219 current sensing, ADC voltage measurement, and an Extended Kalman Filter**.
-
-`ESP32` `Embedded C/C++` `INA219` `EKF`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 [Smart Door Lock using LPC1768 and RTX RTOS](https://github.com/adityaatil/Smart-Door-Lock-System-ARM-CORTEX-M-3-)
-
-Task-based access control for the **ARM Cortex-M3 LPC1768**, with UART password input, LCD feedback, LED indication, retry handling, and RTX tasks.
-
-`LPC1768` `C` `UART` `RTX RTOS`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ☀️ [Portable Solar Phone Charger](https://github.com/adityaatil/Solar-Phone-Charger)
-
-Hardware prototype using an **LM2576 buck converter** to turn variable solar-panel voltage into a regulated **5 V USB output**, including circuit work, PCB design, and a working model.
-
-`Power Electronics` `LM2576` `PCB` `Renewable Energy`
-
-</td>
-<td width="50%" valign="top">
-
-### 📡 [ESP32 Water Tank Monitor with Blynk IoT](https://github.com/adityaatil/Water-Tank-monitor-using-blynk-app-)
-
-Remote water-level monitoring using an **ESP32 and HC-SR04 ultrasonic sensor**, with percentage data displayed in the Blynk mobile app.
-
-`ESP32` `HC-SR04` `Wi-Fi` `Blynk IoT`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔑 [ESP32 Keypad Door Lock](https://github.com/adityaatil/Door-lock-using-esp32-keypad)
-
-Password-based access-control prototype using an ESP32, 4×4 keypad, servo motor, and buzzer.
-
-`ESP32` `Keypad` `Servo` `Embedded C++`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔋 [Li-Ion SOC Estimation using OCV](https://github.com/adityaatil/SOC-estimation-by-OCV-method)
-
-ESP32-based battery-voltage measurement through an ADC and voltage-divider circuit, followed by State of Charge estimation using an OCV lookup approach.
-
-`ESP32` `ADC` `Battery Systems` `C++`
-
-</td>
-</tr>
-</table>
-
-### 🎯 [Missile Launching Toy — Product Design Project](https://github.com/adityaatil/Missile-Launching-Toy)
-
-A semi-automatic product-design project covering problem definition, functional decomposition, concept generation, resource calculations, motor selection, and virtual implementation.
-
-## Technologies & Tools
-
-<div align="center">
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![ARM](https://img.shields.io/badge/ARM_Cortex--M-0091BD?style=for-the-badge&logo=arm&logoColor=white)
-![Blynk](https://img.shields.io/badge/Blynk-23C48E?style=for-the-badge&logo=blynk&logoColor=white)
-![Keil](https://img.shields.io/badge/Keil_uVision-39457E?style=for-the-badge&logo=arm&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-adityaatil-0d1117?style=flat-square&logo=github&logoColor=39ff14)](https://github.com/adityaatil)
+[![Focus](https://img.shields.io/badge/focus-embedded%20%2B%20IoT-0d1117?style=flat-square&logo=arduino&logoColor=39ff14)](#focus)
+[![Status](https://img.shields.io/badge/status-building%20in%20public-0d1117?style=flat-square&logo=hackthebox&logoColor=39ff14)](#now)
 
 </div>
 
-**Hardware & interfaces:** ESP32 · LPC1768 · ARM Cortex-M3 · UART · I²C · ADC · LCD · Keypad · Servo motors · INA219 · Ultrasonic sensing · DC-DC conversion
+## `> about_me`
 
-**Software & platforms:** Arduino IDE · Keil uVision · CMSIS · RTX RTOS · Blynk IoT
+I build hardware-driven projects where **firmware meets the physical world**. My interests include microcontrollers, embedded C/C++, sensor interfacing, battery systems, real-time firmware, and IoT automation.
 
-## Current Direction
+```c
+const char *interests[] = {
+    "embedded systems",
+    "microcontroller programming",
+    "ESP32 + ARM Cortex-M",
+    "IoT and connected devices",
+    "battery monitoring / BMS",
+    "renewable energy + power electronics"
+};
+```
 
-I'm working toward becoming an embedded systems engineer by developing reliable, well-documented projects involving **real-time firmware, connected devices, intelligent battery monitoring, and energy-aware hardware design**.
+## `> focus`
 
 <div align="center">
 
-### Thanks for visiting — explore my repositories and let's build something useful ⚙️
+`C` `C++` `ESP32` `ARM Cortex-M` `UART` `I²C` `ADC` `RTOS` `IoT` `BMS`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,50:0ea5e9,100:0f172a&height=100&section=footer" width="100%" alt="Profile footer" />
+</div>
+
+## `> selected_projects`
+
+| Project | What I built | Stack |
+| :--- | :--- | :--- |
+| [**Real-Time Li-Ion SOC Estimation using EKF**](https://github.com/adityaatil/Real-Time-Li-Ion-Battery-SOC-Estimation-using-Extended-Kalman-Filter-EKF-) | Real-time battery monitoring combining Coulomb Counting, OCV-SOC modeling, INA219 current sensing, ADC measurement, and EKF correction. | `ESP32` `C++` `INA219` `EKF` |
+| [**Smart Door Lock — LPC1768 + RTX**](https://github.com/adityaatil/Smart-Door-Lock-System-ARM-CORTEX-M-3-) | Task-based access control with UART password input, LCD feedback, LED indication, retry handling, and RTOS scheduling. | `LPC1768` `C` `UART` `RTX RTOS` |
+| [**Portable Solar Phone Charger**](https://github.com/adityaatil/Solar-Phone-Charger) | Solar energy harvesting prototype using an LM2576 buck converter to produce regulated 5 V USB output, including PCB work. | `LM2576` `PCB` `Power Electronics` |
+| [**ESP32 Water Tank Monitor**](https://github.com/adityaatil/Water-Tank-monitor-using-blynk-app-) | Ultrasonic tank-level measurement with remote percentage monitoring through the Blynk IoT mobile app. | `ESP32` `HC-SR04` `Wi-Fi` `Blynk` |
+| [**ESP32 Keypad Door Lock**](https://github.com/adityaatil/Door-lock-using-esp32-keypad) | Password-based access control using a 4×4 keypad, servo motor, and buzzer. | `ESP32` `Keypad` `Servo` |
+| [**Li-Ion SOC using OCV**](https://github.com/adityaatil/SOC-estimation-by-OCV-method) | ADC-based battery voltage measurement and State of Charge estimation using an OCV lookup approach. | `ESP32` `ADC` `C++` |
+| [**Missile Launching Toy**](https://github.com/adityaatil/Missile-Launching-Toy) | Semi-automatic product design covering system functions, concept generation, motor selection, and virtual implementation. | `Arduino Mega` `DC Motors` `Product Design` |
+
+## `> toolbox`
+
+<div align="center">
+
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=39ff14)
+![C++](https://img.shields.io/badge/C%2B%2B-0d1117?style=for-the-badge&logo=cplusplus&logoColor=39ff14)
+![Arduino](https://img.shields.io/badge/Arduino-0d1117?style=for-the-badge&logo=arduino&logoColor=39ff14)
+![ESP32](https://img.shields.io/badge/ESP32-0d1117?style=for-the-badge&logo=espressif&logoColor=39ff14)
+![ARM](https://img.shields.io/badge/ARM_Cortex--M-0d1117?style=for-the-badge&logo=arm&logoColor=39ff14)
+![Keil](https://img.shields.io/badge/Keil_uVision-0d1117?style=for-the-badge&logo=arm&logoColor=39ff14)
+![Blynk](https://img.shields.io/badge/Blynk_IoT-0d1117?style=for-the-badge&logo=blynk&logoColor=39ff14)
+
+</div>
+
+**Hardware:** ESP32 · LPC1768 · LCD · Keypad · Servo · INA219 · HC-SR04 · DC motors · Voltage dividers · Buck converters
+
+**Software:** Arduino IDE · Keil uVision · CMSIS · RTX RTOS · Blynk IoT
+
+## `> now`
+
+```text
+[+] learning        embedded C/C++ and RTOS design
+[+] exploring       reliable sensor-driven systems
+[+] building        battery monitoring and connected hardware
+[+] looking for     embedded projects, internships, and collaborators
+```
+
+## `> contact`
+
+Interested in embedded systems, IoT, electronics, or building something from a schematic into a working prototype? Feel free to explore my repositories or connect with me on GitHub.
+
+<div align="center">
+
+```text
+01000101 01001101 01000010 01000101 01000100 01000100 01000101 01000100
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,50:052e16,100:020617&height=110&section=footer&animation=twinkling" width="100%" alt="Green terminal style footer" />
 
 </div>
